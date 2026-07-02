@@ -133,15 +133,29 @@ nihaisha-renji/
 
 ---
 
-## ⚠️ 声明 / Disclaimer
+## ⚠️ 内容来源与纯度声明 / Content Source & Purity Statement
 
-- 本系统为 **AI 学习工具**，非临床诊断系统。不可替代医师诊断。
-- 所有内容源自倪海厦人纪课程字幕原文，版权归倪师及其版权方所有。本仓库仅提供学习框架和方法论，不包含课程视频/音频/完整字幕。
-- AI 输出仅供学习参考，临床应用需在执业医师指导下进行。
+本仓库所有知识内容**唯一来源**为「岐黄传承道法自然」微信公众号发布的倪海厦人纪课程视频字幕。
 
-- This system is an **AI learning tool**, NOT a clinical diagnosis system. It cannot replace physician diagnosis.
-- All content is derived from nihaisha's Renji lecture transcripts. Copyright belongs to Master Ni and the copyright holders. This repository provides only the learning framework and methodology, not the course videos/audio/full transcripts.
-- AI output is for learning reference only. Clinical application requires supervision by licensed practitioners.
+- **100% 倪师原话**：每一段知识树、每一条临床珍珠、每一格治则索引，均逐字逐句提取自倪海厦本人授课原话，未经任何二手解读或加工。
+- **单一门派、单一体系**：所有内容严格限定于倪海厦人纪课程体系，不涉及、不掺杂其他中医门派或理论体系的任何内容。
+- **可追溯**：任意知识点均可通过 checkpoint 定位回原文段落，确保"这句话是倪师说的"有据可查。
+
+本仓库不包含课程视频、音频或完整字幕文件。版权归倪海厦先生及其版权方所有。
+
+**⚠️ 免责声明 / Disclaimer**：本系统为 **AI 学习工具**，非临床诊断系统。不可替代医师诊断。AI 输出仅供学习参考，临床应用需在执业医师指导下进行。
+
+---
+
+All knowledge content in this repository originates **exclusively** from the nihaisha Renji lecture video subtitles published by the WeChat official account 「岐黄传承道法自然」 (Qihuang Heritage — The Way of Nature).
+
+- **100% Master Ni's Original Words**: Every knowledge tree, every clinical pearl, every entry in the treatment index is extracted word-for-word from nihaisha's own lectures, with zero second-hand interpretation or processing.
+- **Single School, Single System**: All content is strictly confined to nihaisha's Renji curriculum. No content from any other TCM school or theoretical system is involved or mixed in.
+- **Fully Traceable**: Any knowledge point can be traced back to its source paragraph via checkpoint, ensuring verifiable attribution — "Master Ni said this, and here's the proof."
+
+This repository does not contain course videos, audio, or full subtitle files. Copyright belongs to Mr. Ni Haisha and the respective rights holders.
+
+**⚠️ Disclaimer**: This system is an **AI learning tool**, NOT a clinical diagnosis system. It cannot replace physician diagnosis. AI output is for learning reference only. Clinical application requires supervision by licensed practitioners.
 
 ---
 
